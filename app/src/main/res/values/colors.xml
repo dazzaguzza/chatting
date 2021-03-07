@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#009688</color>
+    <color name="fabPrimary">#45A1F5</color>
+    <color name="fabPressed">#6EB5F7</color>
+    <color name="fabRipple">#aeebfc</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteTransparent">#80ffffff</color>
+    <color name="colorRed">#FF4500</color>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "687801596056",
+    "firebase_url": "https://fcm-chat-80e04.firebaseio.com",
+    "project_id": "fcm-chat-80e04",
+    "storage_bucket": "fcm-chat-80e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687801596056:android:133c0363dbf8ffbc",
+        "android_client_info": {
+          "package_name": "com.example.admin.myapplication4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687801596056-v92dh621k31l5f4nsms26pjqk1ba85fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbP8SpA1lULsLlAUn2UpT77-Xi4BTSzio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
